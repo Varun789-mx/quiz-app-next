@@ -1,5 +1,5 @@
-import { IoManager } from './managers/IoManager';
-import { UserManager } from './managers/UserManager';
+import { IoManager } from './pages/IoManager';
+import { UserManager } from './pages/UserManager';
 
 const io = IoManager.getIo();
 
